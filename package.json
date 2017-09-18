@@ -1,0 +1,20 @@
+{
+	"name": "ngts-modal",
+	"version": "0.0.1",
+	"description": "angular4 modal",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/iTwangcj/ngts-modal.git"
+	},
+	"keywords": [
+		"ngts",
+		"modal",
+		"ngts-modal"
+	],
+	"author": "iTwang",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/iTwangcj/ngts-modal/issues"
+	},
+	"homepage": "https://github.com/iTwangcj/ngts-modal/blob/master/README.md"
+}
